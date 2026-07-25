@@ -16,8 +16,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/EricBema/frontendmentor-blog-preview-card.git)
+- Live Site URL: [](https://ericbema.github.io/frontendmentor-blog-preview-card/)
 
 ## My process
 
@@ -66,5 +64,5 @@ I used AI sparingly when i made this
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@EricBema](https://www.frontendmentor.io/profile/EricBema)
+- Github - [EricBema](https://github.com/EricBema)
